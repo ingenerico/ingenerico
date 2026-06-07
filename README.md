@@ -7,4 +7,4 @@
 ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═════╝ 
 ```
 
-##### Para mí, la mejor forma de aprender es haciendo. Te invito a contruir lo que se con lo aprendido.
+##### Para mí, la mejor forma de aprender es haciendo. Te invito a construir lo que sea con lo aprendido.
